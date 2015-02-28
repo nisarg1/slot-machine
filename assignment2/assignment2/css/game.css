@@ -1,3 +1,7 @@
 ﻿body {
     border: dashed 1px black;
 }
+
+#canvas{
+    padding-left :400px;
+}
